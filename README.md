@@ -35,8 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/RijoversalT/training/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RijoversalT/training/tree/master/0013-roman-to-integer) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RijoversalT/training/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/RijoversalT/training/tree/master/0029-divide-two-integers) |
+## Array
+|  |
+| ------- |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RijoversalT/training/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
