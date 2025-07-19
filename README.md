@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/RijoversalT/training/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/RijoversalT/training/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/RijoversalT/training/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/RijoversalT/training/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RijoversalT/training/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/RijoversalT/training/tree/master/0137-single-number-ii) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RijoversalT/training/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
