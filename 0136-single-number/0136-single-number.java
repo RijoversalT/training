@@ -9,9 +9,9 @@ class Solution {
                 }
             }
             if(count==1){
-                return nums[i];
+                a+=nums[i];
             }
         }
-         return -1;
+         return a;
     }
 }
