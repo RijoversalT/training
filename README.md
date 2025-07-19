@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/RijoversalT/training/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/RijoversalT/training/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/RijoversalT/training/tree/master/0231-power-of-two) |
+| [2383-add-two-integers](https://github.com/RijoversalT/training/tree/master/2383-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
